@@ -10,7 +10,9 @@ Le cours consiste à savoir :
 
 `git init` 
 > Initialise le projet
+
 `git add .`
 > ajoute toutes les modifications à l'index
+
 `git commit -m "message"` 
 > commit les modifications
