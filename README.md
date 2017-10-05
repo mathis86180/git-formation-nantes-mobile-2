@@ -6,7 +6,11 @@ Le cours consiste à savoir :
 2. Utilisier GitHub en collaboration
 
 
-#Quelques commandes utiles
-`git init' Initialise le projet
-'git add .' ajoute toutes les modifications à l'index
-'git commit -m "message"`  commit les modifications
+# Quelques commandes utiles :
+
+`git init` 
+> Initialise le projet
+`git add .`
+> ajoute toutes les modifications à l'index
+`git commit -m "message"` 
+> commit les modifications
